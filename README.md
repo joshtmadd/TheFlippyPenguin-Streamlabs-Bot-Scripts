@@ -2,7 +2,7 @@
 Feel free to use these files for your own bots!
 Send me a direct message on twitch at https://www.twitch.tv/theflippypenguin if you have any questions
 
-##Using These Scripts Yourself
+## Using These Scripts Yourself
 If you want to use these scripts for your own bot, then download/clone the repo contents and stash them in your own bot.
 The "official" way to import them is to zip the individual script folders and to have the bot import them, but copy and paste work just fine
 
